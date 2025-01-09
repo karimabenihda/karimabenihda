@@ -14,17 +14,7 @@
 
 ---
 
-### 🌸 About Me:
-- 🎓 I’m a **digital development student** at the **Institute of Applied Technology, Ait Melloul**.
-- 💖 Passionate about **web development** and constantly learning new things!
-- 🌈 Love working with **React, Laravel**, and building full-stack applications.
-- 🌍 Based in **Agadir, Morocco**.
-- 🌟 Open to exciting **projects** and **collaborations**.
-
----
-
-### 🌐 Connect with Me:
-<p align="center">
+### 🌐 Connect with Me: <p align="center">
   <a href="https://www.linkedin.com/in/karima-benihda-3004ba326/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:karimabenihda@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
