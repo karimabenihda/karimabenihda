@@ -50,7 +50,6 @@
 ### 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karimabenihda&show_icons=true&locale=en&layout=compact&theme=rose_pine" alt="Top Languages" />
-  <br>
   <img src="https://github-readme-stats.vercel.app/api?username=karimabenihda&show_icons=true&locale=en&theme=rose_pine" alt="GitHub Stats" />
 </p>
 
