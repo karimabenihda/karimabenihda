@@ -3,9 +3,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=600&pause=1000&color=F5E1C0FF&width=800&height=100&size=50&lines=ⴰⵣⵓⵍ!+ⴰⵙⵙⴰⵖ+ⵉⵏⵓ+ⴽⴰⵔⵉⵎⴰ+ⴱⵍⵉⵀⴷⴰ+%F0%9F%A6%8B;Hello!+this+is+Karima+BENIHDA+%F0%9F%92%8C)](https://git.io/typing-svg)
 </div>
 
+
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=karimabenihda&label=Profile%20views&color=86092c&style=flat-square" alt="karimabenihda" />
 </p>
+
 
 <div align="left">
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
@@ -60,6 +62,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/neo4j/4581C3" height="40" alt="neo4j logo"  />
 </div>
+
 
 
 
