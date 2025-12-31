@@ -3,7 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=600&pause=1000&color=F5E1C0FF&width=800&height=100&size=50&lines=ⴰⵣⵓⵍ!+ⴰⵙⵙⴰⵖ+ⵉⵏⵓ+ⴽⴰⵔⵉⵎⴰ+ⴱⵍⵉⵀⴷⴰ+%F0%9F%A6%8B;Hello!+this+is+Karima+BENIHDA+%F0%9F%92%8C)](https://git.io/typing-svg)
 </div>
 
-
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=karimabenihda&label=Profile%20views&color=86092c&style=flat-square" alt="karimabenihda" />
 </p>
@@ -77,6 +76,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="37" height="25" alt="discord logo"  />
   </a>
 </div>
+
 
 
 
