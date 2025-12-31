@@ -14,14 +14,7 @@
 
 ---
 
-### 🌸 About Me:
-- 🎓 I’m a **digital development student** at the **Institute of Applied Technology, Ait Melloul**.
-- 💖 Passionate about **web development** and constantly learning new things!
-- 🌈 Love working with **React, Laravel**, and building full-stack applications.
-- 🌍 Based in **Agadir, Morocco**.
-- 🌟 Open to exciting **projects** and **collaborations**.
 
----
 
 ### 🌐 Connect with Me: 
 <p align="center">
@@ -48,11 +41,70 @@
 
 ---
 
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karimabenihda&show_icons=true&locale=en&layout=compact&theme=rose_pine" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=karimabenihda&show_icons=true&locale=en&theme=rose_pine" alt="GitHub Stats" />
-</p>
+## moltack
+
+[![](./0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](./1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](./2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](./3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](./4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+### Now you can add this to your markdown
+```
+
+[![](https://raw.githubusercontent.com/karimabenihda/karimabenihda/main/profile-summary-card-output/moltack/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/karimabenihda/karimabenihda/main/profile-summary-card-output/moltack/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/karimabenihda/karimabenihda/main/profile-summary-card-output/moltack/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/karimabenihda/karimabenihda/main/profile-summary-card-output/moltack/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/karimabenihda/karimabenihda/main/profile-summary-card-output/moltack/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+```
+
+### Each card usage
+---
+
+![](./0-profile-details.svg)
+
+```
+![](https://raw.githubusercontent.com/karimabenihda/karimabenihda/main/profile-summary-card-output/moltack/0-profile-details.svg)
+```
+
+    
+
+---
+
+![](./1-repos-per-language.svg)
+
+```
+![](https://raw.githubusercontent.com/karimabenihda/karimabenihda/main/profile-summary-card-output/moltack/1-repos-per-language.svg)
+```
+
+    
+
+---
+
+![](./2-most-commit-language.svg)
+
+```
+![](https://raw.githubusercontent.com/karimabenihda/karimabenihda/main/profile-summary-card-output/moltack/2-most-commit-language.svg)
+```
+
+    
+
+---
+
+![](./3-stats.svg)
+
+```
+![](https://raw.githubusercontent.com/karimabenihda/karimabenihda/main/profile-summary-card-output/moltack/3-stats.svg)
+```
+
+    
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/karimabenihda/karimabenihda/main/profile-summary-card-output/moltack/4-productive-time.svg)
+```
+
+    
 
 ---
 
