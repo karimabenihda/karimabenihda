@@ -61,20 +61,27 @@
   <img src="https://cdn.simpleicons.org/neo4j/4581C3" height="40" alt="neo4j logo"  />
 </div>
 
+
 <div align="center">
-  <a href="karimabenihda@gmail.com" target="_blank">
+  <a href="mailto:karimabenihda@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/karima-ben-ihda-3004ba326/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
   </a>
-  <a href="karema_54973" target="_blank">
+  <a href="https://discord.com/users/1180800386592940125" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="37" height="25" alt="discord logo"  />
   </a>
 </div>
 
 
-### 📊 GitHub Stats:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karimabenihda/karimabenihda/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/karimabenihda/karimabenihda/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/karimabenihda/karimabenihda/output/pacman-contribution-graph.svg">
+</picture>
+
+
 [![](./0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](./1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](./2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](./3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](./4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
@@ -83,7 +90,6 @@
 [![](https://raw.githubusercontent.com/karimabenihda/karimabenihda/main/profile-summary-card-output/moltack/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/karimabenihda/karimabenihda/main/profile-summary-card-output/moltack/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/karimabenihda/karimabenihda/main/profile-summary-card-output/moltack/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/karimabenihda/karimabenihda/main/profile-summary-card-output/moltack/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/karimabenihda/karimabenihda/main/profile-summary-card-output/moltack/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
 
 ---
 
