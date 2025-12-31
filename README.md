@@ -7,8 +7,6 @@
 <img src="https://komarev.com/ghpvc/?username=karimabenihda&label=Profile%20views&color=86092c&style=flat-square" alt="karimabenihda" />
 </p>
 
----
-
 <div align="left">
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -75,7 +73,6 @@
   </a>
 </div>
 
----
 
 ### 📊 GitHub Stats:
 [![](./0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
