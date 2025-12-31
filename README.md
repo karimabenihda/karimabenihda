@@ -62,6 +62,7 @@
 </div>
 
 
+
 <div align="center">
   <a href="mailto:karimabenihda@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo"  />
@@ -73,6 +74,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="37" height="25" alt="discord logo"  />
   </a>
 </div>
+
 
 
 <picture>
@@ -92,9 +94,6 @@
 [![](https://raw.githubusercontent.com/karimabenihda/karimabenihda/main/profile-summary-card-output/moltack/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/karimabenihda/karimabenihda/main/profile-summary-card-output/moltack/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ---
-
-### 🌟 Fun Fact:
-🌸 I love creating user-friendly and visually appealing interfaces, and I'm always exploring new design trends to make my projects shine! ✨
 
 <div align="center">
 ✨ Thank you for visiting my profile! Feel free to connect and collaborate. Have a wonderful day! ✨  
