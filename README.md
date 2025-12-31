@@ -99,6 +99,6 @@
 
 ---
 
-<div align="center">
+<h3 align="center">
 ✨ Thank you for visiting my profile! Feel free to connect and collaborate. Have a wonderful day! ✨  
-</div>
+</h3>
